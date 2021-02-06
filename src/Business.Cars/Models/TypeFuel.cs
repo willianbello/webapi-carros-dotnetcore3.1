@@ -1,6 +1,6 @@
-﻿namespace Negocios.Carros.Modelos
+﻿namespace Negocios.Carros.Models
 {
-    public enum TipoCombustivel
+    public enum TypeFuel
     {
         Gasolina = 1,
         Alcool = 2,
